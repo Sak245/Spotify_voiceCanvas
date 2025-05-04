@@ -3,3 +3,4 @@ groq
 pandas
 pydub
 requests
+openai>=1.70.0
